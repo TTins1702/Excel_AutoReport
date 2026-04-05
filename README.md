@@ -95,8 +95,9 @@ When you run the tool, it will generate a comprehensive business report. Here is
 
 ---
 
-## 🤝 Contributing
-Contributions, issues, and feature requests are welcome! Feel free to check the issues page or submit a pull request if you want to add new analysis modules or support for different file formats (like CSV/JSON).
-
-## 📝 License
-This project is open-source and available under the MIT License.
+## 💡 Về Dự Án Này
+Đây là một dự án tự học cá nhân nhằm mục đích tìm hiểu và thực hành:
+- Cách sử dụng **Pandas** để xử lý và phân tích bộ dữ liệu lớn.
+- Kỹ năng tích hợp LLM (Large Language Models) qua **Groq API** vào các dự án phần mềm.
+- Cách kỹ thuật Prompt Engineering để tự động hóa việc tóm tắt thông tin thành báo cáo Markdown.
+- Quy trình xây dựng một AI Agent cơ bản nhưng mang tính ứng dụng thực tế cao.
