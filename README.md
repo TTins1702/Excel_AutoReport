@@ -95,9 +95,10 @@ When you run the tool, it will generate a comprehensive business report. Here is
 
 ---
 
-## 💡 Về Dự Án Này
-Đây là một dự án tự học cá nhân nhằm mục đích tìm hiểu và thực hành:
-- Cách sử dụng **Pandas** để xử lý và phân tích bộ dữ liệu lớn.
-- Kỹ năng tích hợp LLM (Large Language Models) qua **Groq API** vào các dự án phần mềm.
-- Cách kỹ thuật Prompt Engineering để tự động hóa việc tóm tắt thông tin thành báo cáo Markdown.
-- Quy trình xây dựng một AI Agent cơ bản nhưng mang tính ứng dụng thực tế cao.
+## 💡 About This Project
+This is a personal self-learning project aimed at understanding and achieving the following goals:
+
+- How to use Pandas to process and analyze large datasets.
+- Skills in integrating LLM (Large Language Modeling) via the Groq API into the project software.
+- Techniques for using Prompt Engineering to automate the task of summarizing information into Markdown reports.
+- The process of building a practical and applicable AI Agent database.
